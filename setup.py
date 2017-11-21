@@ -1,6 +1,6 @@
 import argparse
 import re
 from string import Template
-from subprocess import call
+import subprocess
 from telegram import TG
 import const
